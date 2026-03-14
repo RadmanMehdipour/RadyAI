@@ -1,9 +1,13 @@
 # Rady AI
 
 <p align="center">
+  <img src="https://radyai.com/imgs/FullLogo.svg" alt="Rady AI Logo" width="400">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.5-blue" alt="Version">
   <img src="https://img.shields.io/badge/company-RADCO-black" alt="RADCO">
-  <img src="https://img.shields.io/badge/license-proprietary-red" alt="License">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/status-active-success" alt="Status">
 </p>
 
@@ -20,13 +24,13 @@
 
 ---
 
-## About Rady
+## 📋 About Rady
 
 Built by RADCO, Rady AI is a conversational artificial intelligence platform designed for people who need real answers — not fluff. Whether you're coding, writing, researching, or just trying to figure something out, Rady keeps context and helps you get there faster.
 
 ---
 
-## Features
+## ✨ Features
 
 - **Context-aware conversations** — remembers what you're working on
 - **Multiple specialized tools** — chat, detection, humanizer, prompt generator
@@ -35,7 +39,7 @@ Built by RADCO, Rady AI is a conversational artificial intelligence platform des
 
 ---
 
-## Tools
+## 🛠️ Tools
 
 | Tool | Description | Link |
 |------|-------------|------|
@@ -47,7 +51,7 @@ Built by RADCO, Rady AI is a conversational artificial intelligence platform des
 
 ---
 
-## Navigation
+## 🧭 Navigation
 
 - [Meet Rady](https://radyai.com)
 - [Solutions](https://radyai.com)
@@ -59,7 +63,7 @@ Built by RADCO, Rady AI is a conversational artificial intelligence platform des
 
 ---
 
-## Contact
+## 📞 Contact
 
 Have questions? We'd love to hear from you.
 
@@ -74,12 +78,30 @@ Fill out the form on our site and we'll respond within 24 hours.
 **Follow Us**  
 Stay updated on new features and releases.
 
-**FAQ**  
-- What is the typical response time?  
-- Do you offer phone support?  
-- Can I schedule a demo?  
-- Where's the technical documentation?  
-- How do I report a bug?
+---
+
+## ❓ Frequently Asked Questions
+
+- **What is the typical response time?**  
+  Within 24 hours for most inquiries.
+
+- **Do you offer phone support?**  
+  Not currently — but our online support team responds quickly.
+
+- **Can I schedule a demo?**  
+  Yes! Reach out via our contact form.
+
+- **Where's the technical documentation?**  
+  Check out our [Wiki](https://radyai.com) for docs.
+
+- **How do I report a bug?**  
+  Contact us through the form or email partnerships@radyai.com.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
