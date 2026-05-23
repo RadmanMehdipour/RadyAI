@@ -51,6 +51,11 @@ We're committed to working with the security community to verify, reproduce, and
 
 ---
 
+### Live Uptime & Incident Updates
+Check real-time uptime, performance, and incident updates for Rady AI. Stay informed on the status of Rady AI Chat and API services.
+https://radyai.com/infopages/status.html
+
+---
 <p align="center">
   <sub>© 2026 RADCO. All rights reserved.</sub>
 </p>
