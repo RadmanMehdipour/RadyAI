@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://radyai.com/imgs/FullLogo.svg" alt="Rady AI" width="380">
+<img src="https://cdn.corenexis.com/f/oG9aHdVUoTZ.svg" alt="Rady AI" width="380">
 
 <br><br> 
 
