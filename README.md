@@ -62,7 +62,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 🛠 Tools
+## Tools
 
 | Tool | What it does | Link |
 |------|-------------|------|
@@ -90,7 +90,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 💷 Pricing
+## Pricing
 
 <table>
 <tr>
@@ -143,7 +143,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 🧭 Navigation
+## Navigation
 
 - [Features](https://radyai.com) — What makes Rady different
 - [Pricing](https://radyai.com/#pricing) — Plans for every use case
