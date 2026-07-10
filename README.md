@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <a href="https://radyai.com"><strong>🌐 radyai.com</strong></a> &nbsp;·&nbsp;
+  <a href="https://radyai.com"><strong>radyai.com</strong></a> &nbsp;·&nbsp;
   <a href="https://radyai.com/login"><strong>Try Rady Free →</strong></a>
 </p>
 
@@ -74,7 +74,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 💬 What people are saying
+##  What people are saying
 
 > *"Finally an AI that doesn't make me feel like I'm filing a support ticket. Rady actually helps me think through problems instead of just giving me answers."*
 >
@@ -106,7 +106,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 </td>
 <td width="33%" valign="top">
 
-### ⭐ Pro — £5.99/mo
+### Pro — £5.99/mo
 > **Most Popular**
 - 150 emails/month
 - 100 AI chats/week
@@ -132,7 +132,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 📊 By the numbers
+##  By the numbers
 
 | | |
 |---|---|
@@ -153,7 +153,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## 📬 Contact
+##  Contact
 
 | Channel | Details |
 |---------|---------|
@@ -164,7 +164,7 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 <details>
 <summary><strong>What's the typical response time for support?</strong></summary>
@@ -193,7 +193,7 @@ Contact us through the in-app form or at partnerships@radyai.com.
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
