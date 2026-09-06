@@ -2,7 +2,7 @@
 
 <img src="https://radyai.com/imgs/FullLogo.svg" alt="Rady AI" width="380">
 
-<br><br> 
+<br><br>
 
 # The Unknown? Known.
 
@@ -24,115 +24,59 @@
 
 </div>
 
-## Most AI tools feel like talking to a robot.
+## What is Rady?
 
-You know the feeling — you ask a question and get back a wall of text that sounds like it was written by a committee. Or worse, it completely misses what you were actually asking for.
+Rady is an AI built for people who actually have things to figure out. Not a chatbot that restates your question back at you, not a tool that hedges every answer — just something that pays attention, follows context, and gives you something useful.
 
-**Rady works differently.** It actually pays attention to what you're working on, remembers the context, and gives you answers that make sense for your specific situation.
+It remembers what you're working on, adapts to your situation, and walks you through the reasoning rather than handing you a generic answer and calling it a day.
 
 ---
 
-## ✦ What Rady Does
+## Demo
 
-<table>
-<tr>
-<td width="33%" valign="top">
+> **See Rady in action**
 
-**Gets what you actually mean**
-
-No more wrestling with perfect prompts or getting generic responses. Rady understands context, follows the thread of your work, and delivers solutions that actually fit.
-
-</td>
-<td width="33%" valign="top">
-
-**Helps you think, not just respond**
-
-Instead of spitting out cookie-cutter answers, Rady walks you through the reasoning — so you make better decisions going forward.
-
-</td>
-<td width="33%" valign="top">
-
-**Built for teams, not just individuals**
-
-Share conversations, build on each other's work, and keep everyone aligned — without endless email threads.
-
-</td>
-</tr>
-</table>
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-YouTube-0a4d4d?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Radco-Rady-AI)
 
 ---
 
 ## Tools
 
-| Tool | What it does | Link |
-|------|-------------|------|
-| **Rady Chat** | Main AI conversation interface | [radyai.com/chat](https://radyai.com/chat) |
-| **AI Detector** | Check if text was AI-generated | [radyai.com/aidetector.html](https://radyai.com/aidetector.html) |
-| **Humanizer** | Make AI text sound more natural | [radyai.com/humanizer.html](https://radyai.com/humanizer.html) |
-| **Email Extractor** | Extract emails from text | [radyai.com/infopages/emailextention.html](https://radyai.com/infopages/emailextention.html) |
-| **Prompt Generator** | Generate better prompts for any AI | [radyai.com/promptgen.html](https://radyai.com/promptgen.html) |
+| Tool | What it does |
+|------|-------------|
+| [**Rady Chat**](https://radyai.com/chat) | Main AI conversation interface |
+| [**AI Detector**](https://radyai.com/aidetector.html) | Check if text was AI-generated |
+| [**Humanizer**](https://radyai.com/humanizer.html) | Make AI-written text sound more natural |
+| [**Email Extractor**](https://radyai.com/infopages/emailextention.html) | Pull emails out of any block of text |
+| [**Prompt Generator**](https://radyai.com/promptgen.html) | Build better prompts for any AI |
 
 ---
 
-##  What people are saying
+## What makes it different
 
-> *"Finally an AI that doesn't make me feel like I'm filing a support ticket. Rady actually helps me think through problems instead of just giving me answers."*
->
-> — **Sarah K.**, Full-Stack Developer
+**It understands context.** You shouldn't have to re-explain your situation every message. Rady follows the thread of your work and keeps up.
 
-> *"The way it remembers context across conversations is honestly impressive. Saves me from repeating myself constantly, which is huge when you're juggling multiple projects."*
->
-> — **Marcus P.**, Product Manager
+**It helps you think.** The goal isn't just to answer — it's to give you something you can actually act on. That means showing the reasoning, not hiding it.
 
-> *"My whole team switched after seeing how much faster I was getting through research. The collaboration features are solid."*
->
-> — **Aisha L.**, Engineering Team Lead
+**It works for teams.** Share conversations, build on each other's work, stay aligned. Less back-and-forth, more getting things done.
+
+**Rady Dispatch.** For bigger jobs — send the task, close the tab, come back when it's done. Every paid user gets a Rady Sandbox where Rady can run commands, work with files, and return finished deliverables. [Read more →](https://radyai.com/blog/dispatch)
 
 ---
 
 ## Pricing
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Plan | Price | Chats | Emails |
+|------|-------|-------|--------|
+| **Basic** | £2.99/mo | 30/week | 50/month |
+| **Pro** | £5.99/mo | 100/week | 150/month |
+| **Premium** | £9.99/mo | 300/week | 300/month |
 
-### Basic — £2.99/mo
-- 50 emails/month
-- 30 AI chats/week
-- Custom prompts
-- Email history & chat logs
-- 25% off with yearly billing
-
-</td>
-<td width="33%" valign="top">
-
-### Pro — £5.99/mo
-> **Most Popular**
-- 150 emails/month
-- 100 AI chats/week
-- Advanced customization
-- Multi-account support
-- Priority support
-- 25% off with yearly billing
-
-</td>
-<td width="33%" valign="top">
-
-### Premium — £9.99/mo
-- 300 emails/month
-- 300 AI chats/week
-- Lightning responses
-- Team collaboration
-- Advanced analytics
-- 25% off with yearly billing
-
-</td>
-</tr>
-</table>
+All plans include 25% off with yearly billing. [Full pricing →](https://radyai.com/#pricing)
 
 ---
 
-##  By the numbers
+## By the numbers
 
 | | |
 |---|---|
@@ -143,65 +87,66 @@ Share conversations, build on each other's work, and keep everyone aligned — w
 
 ---
 
-## Navigation
+## What people are saying
 
-- [Features](https://radyai.com) — What makes Rady different
-- [Pricing](https://radyai.com/#pricing) — Plans for every use case
-- [Meet Rady](https://radyai.com/infopages/meet.html) — Learn more about the product
-- [Try Free](https://radyai.com/login) — No credit card required
-- [Privacy Policy](https://radyai.com) · [Terms of Service](https://radyai.com)
+> *"Finally an AI that doesn't make me feel like I'm filing a support ticket. Rady actually helps me think through problems instead of just giving me answers."*
+> — **Sarah K.**, Full-Stack Developer
 
----
+> *"The way it remembers context across conversations is honestly impressive. Saves me from repeating myself constantly, which is huge when you're juggling multiple projects."*
+> — **Marcus P.**, Product Manager
 
-##  Contact
-
-| Channel | Details |
-|---------|---------|
-| **Email** | hello@radyai.com |
-| **Support** | 24/7 in-app chat |
-| **Partnerships** | partnerships@radyai.com |
-| **Hours** | Mon–Fri, 9am–6pm EST |
+> *"My whole team switched after seeing how much faster I was getting through research. The collaboration features are solid."*
+> — **Aisha L.**, Engineering Team Lead
 
 ---
 
-##  FAQ
+## FAQ
 
 <details>
-<summary><strong>What's the typical response time for support?</strong></summary>
-Within 24 hours for most inquiries.
+<summary><strong>What's the typical support response time?</strong></summary>
+Within 24 hours for most inquiries. In-app chat is available 24/7.
 </details>
 
 <details>
-<summary><strong>Do you offer phone support?</strong></summary>
-Not currently — but our online support team responds quickly and our in-app chat is available 24/7.
+<summary><strong>Is there phone support?</strong></summary>
+Not currently — our support team is online and responds fast.
 </details>
 
 <details>
 <summary><strong>Can I schedule a demo?</strong></summary>
-Yes! Reach out via the contact form or email us directly.
+Yes — reach out via the contact form or email us directly.
 </details>
 
 <details>
 <summary><strong>Where's the technical documentation?</strong></summary>
-Check out our <a href="https://radyai.com">Wiki</a> for full docs.
+Full docs are in the <a href="https://radyai.com">Wiki</a>.
 </details>
 
 <details>
 <summary><strong>How do I report a bug?</strong></summary>
-Contact us through the in-app form or at partnerships@radyai.com.
+Use the in-app form or email partnerships@radyai.com.
 </details>
 
 ---
 
-##  License
+## Contact
 
-MIT License — see [LICENSE](LICENSE) for details.
+| | |
+|---|---|
+| **General** | hello@radyai.com |
+| **Partnerships** | partnerships@radyai.com |
+| **Support** | 24/7 in-app chat |
+| **Hours** | Mon–Fri, 9am–6pm EST |
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
 <div align="center">
-
-**Follow along**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Rady__Ai__Global-0a4d4d?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Rady_Ai_Global)
 [![YouTube](https://img.shields.io/badge/YouTube-Radco--Rady--AI-0a4d4d?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Radco-Rady-AI)
