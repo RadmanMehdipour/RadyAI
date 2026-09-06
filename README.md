@@ -36,7 +36,7 @@ It remembers what you're working on, adapts to your situation, and walks you thr
 
 > **See Rady in action**
 
-[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-YouTube-0a4d4d?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Radco-Rady-AI)
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-YouTube-0a4d4d?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-_j7pP_HIf8)
 
 ---
 
